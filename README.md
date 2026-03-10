@@ -1,8 +1,8 @@
 # Hey there! 👋
 
-I'm **Askhat Tulegenov**, a data engineer based in Kazakhstan.
+I'm **Askhat Tulegenov**, a software engineer based in Kazakhstan.
 
-I'm passionate about the intersection of data, systems, and automation. Whether it's building data pipelines or tinkering with control systems, I enjoy solving complex problems with code.
+I work on any projects that come to my mind.
 
 ## 🔭 What am I currently working on?
 - **Bachelor Thesis** — Diving deep into the world of control theory with my thesis on *"Reach set estimation and control synthesis for linear systems"*.
