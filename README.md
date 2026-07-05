@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-I'm **Askhat Tulegenov**, a software engineer based in Kazakhstan.
+I'm **Askhat Tulegenov**, a backend developer.
 
 I work on any projects that come to my mind.
 
@@ -12,7 +12,7 @@ I work on any projects that come to my mind.
 My main tech stack and tools:
 
 - **Programming Languages**: Python, C++, C, Go, SQL, Matlab
-- **Tools & Technologies**: Git, LaTeX, Linux, Docker
+- **Tools & Technologies**: Git, LaTeX, Linux, Docker, PostgreSQL, FASTAPI, Kafka, Redis
 
 ## 📫 How to reach me?
 
@@ -25,4 +25,4 @@ I'm always open to interesting conversations and collaboration opportunities!
 
 ## 📚 Quick Facts
 
-- **Education**: BSc in Applied Mathematics and Computer Science @ Lomonosov Moscow State University (GPA: 3.7/5.0)
+- **Education**: BSc in Applied Mathematics and Computer Science @ Lomonosov Moscow State University (GPA: 4.3/5.0)
